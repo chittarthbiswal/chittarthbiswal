@@ -33,8 +33,6 @@
   <a href="https://www.linkedin.com/in/chittarthbiswal/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
-
-  <a href="chittarthbiswal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://chittarth.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome&logoColor=white"/></a>
 </p>
 
