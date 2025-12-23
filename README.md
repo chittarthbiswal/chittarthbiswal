@@ -7,7 +7,7 @@
 
 ### 🛠️ Technical Skills
 
-#### 💻 Programming Languages  
+#### 💻 Programming Languages  a
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -27,14 +27,6 @@
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chittarthbiswal&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chittarthbiswal&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>
-
 
 ### 📫 Connect With Me
 <p align="center">
